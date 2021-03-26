@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>png/qt-logo.png</file>
+        <file>shader/add.glsl</file>
+        <file>shader/average.glsl</file>
+        <file>shader/color-burn.glsl</file>
+        <file>shader/color-dodge.glsl</file>
+        <file>shader/darken.glsl</file>
+        <file>shader/difference.glsl</file>
+        <file>shader/exclusion.glsl</file>
+        <file>shader/glow.glsl</file>
+        <file>shader/hard-light.glsl</file>
+        <file>shader/hard-mix.glsl</file>
+        <file>shader/lighten.glsl</file>
+        <file>shader/linear-burn.glsl</file>
+        <file>shader/linear-dodge.glsl</file>
+        <file>shader/linear-light.glsl</file>
+        <file>shader/multiply.glsl</file>
+        <file>shader/negation.glsl</file>
+        <file>shader/normal.glsl</file>
+        <file>shader/overlay.glsl</file>
+        <file>shader/phoenix.glsl</file>
+        <file>shader/pin-light.glsl</file>
+        <file>shader/reflect.glsl</file>
+        <file>shader/screen.glsl</file>
+        <file>shader/soft-light.glsl</file>
+        <file>shader/substract.glsl</file>
+        <file>shader/subtract.glsl</file>
+        <file>shader/vivid-light.glsl</file>
+        <file>png/foreground.jpg</file>
+    </qresource>
+</RCC>
